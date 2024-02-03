@@ -1,0 +1,17 @@
+{
+  "name": "typescript-mostrar",
+  "version": "1.0.0",
+  "description": "aqui eu vou tstar meus conhecimentos em typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "start"
+  },
+  "keywords": [
+    "123"
+  ],
+  "author": "joao gabriel caires fernandes",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^5.3.3"
+  }
+}

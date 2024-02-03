@@ -1,0 +1,5 @@
+Codigo que vai possuir a classe Professores, esses divididos em: Humanas e Exatas.
+
+Cada um vai ter metodos específicos que chamam outras funcionalidades, para cada parametro especifico chamado.
+
+PProjeto unicamente feito para treinar e mostrar conhecimentos em TypeScript
